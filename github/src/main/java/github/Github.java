@@ -16,5 +16,6 @@ public class Github {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Github.class, args);
+		//你好
 	}
 }
